@@ -1,0 +1,3 @@
+1.docker build -t plain_html . // create docker image
+2.docker images
+3.docker run --name plain_html_C[Container Name] -p 8081:80 plain_html[Image Name]

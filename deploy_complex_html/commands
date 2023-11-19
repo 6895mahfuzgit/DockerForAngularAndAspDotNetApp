@@ -1,0 +1,4 @@
+>docker build -t complex_html .
+
+>docker run  --name co
+mplex_html_c -p 8082:80 complex_html
