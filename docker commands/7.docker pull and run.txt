@@ -1,0 +1,1 @@
+docker run -it --rm -p 8080:80 --name dotnet_eight mcr.microsoft.com/dotnet/aspnet:8.0
