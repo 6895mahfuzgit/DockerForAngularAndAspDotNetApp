@@ -1,1 +1,1 @@
-docker run -it --rm -p 8083:80 --name dotnet_eight mcr.microsoft.com/dotnet/samples
+docker run -it --rm -p 8000:8080 --name aspnetapp mcr.microsoft.com/dotnet/samples:aspnetapp
