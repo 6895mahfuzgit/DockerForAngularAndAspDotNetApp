@@ -1,0 +1,3 @@
+docker run -d -p 8000:8080 --name aspnetapp mcr.microsoft.com/dotnet/samples:aspnetapp
+
+docker logs [container id]
