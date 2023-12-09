@@ -1,0 +1,2 @@
+1.docker build -t weatherapp:dev  -f ./Dockerfile .
+2.docker run -d -p 8084:8080  weatherapp:dev
