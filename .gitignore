@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/5.deploy_asp_net_core_web_api_app/AspNetCoreappDeployInDeockerApp/.vs

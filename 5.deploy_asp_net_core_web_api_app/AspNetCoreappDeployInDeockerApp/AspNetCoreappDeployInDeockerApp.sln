@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreappDeployInDeockerApp", "AspNetCoreappDeployInDeockerApp.csproj", "{FF00DB61-4C91-4EAF-B604-A9BEDED1E327}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF00DB61-4C91-4EAF-B604-A9BEDED1E327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF00DB61-4C91-4EAF-B604-A9BEDED1E327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF00DB61-4C91-4EAF-B604-A9BEDED1E327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF00DB61-4C91-4EAF-B604-A9BEDED1E327}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F970978E-A4BB-4565-8D6C-B5ADD1E9886A}
+	EndGlobalSection
+EndGlobal

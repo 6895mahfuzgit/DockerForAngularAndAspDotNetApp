@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SsKaI8wH5DTaNieAgZbPDK3dc+tVHbwLwEgnifqgHpc=",
+  "Source": "AspNetCoreappDeployInDeockerApp",
+  "BasePath": "_content/AspNetCoreappDeployInDeockerApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

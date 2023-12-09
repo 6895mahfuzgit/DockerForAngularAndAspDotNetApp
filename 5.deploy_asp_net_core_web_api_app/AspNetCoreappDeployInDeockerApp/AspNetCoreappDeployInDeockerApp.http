@@ -1,0 +1,6 @@
+@AspNetCoreappDeployInDeockerApp_HostAddress = http://localhost:5143
+
+GET {{AspNetCoreappDeployInDeockerApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
