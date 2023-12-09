@@ -1,0 +1,2 @@
+1.docker build -t demo_angular_frontend_app -f ./Dockerfile .
+2.docker run -d -p 4001:80 demo_angular_frontend_app 
