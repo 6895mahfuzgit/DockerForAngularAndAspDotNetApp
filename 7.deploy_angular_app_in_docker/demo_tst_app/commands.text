@@ -1,0 +1,2 @@
+1.docker build  -t demo_test_app:dev .
+2.docker run  -d -p 4004:80 demo_test_app:dev
